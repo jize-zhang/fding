@@ -59,7 +59,7 @@ math = false
 
 # Does the content use source code highlighting?
 highlight = true
-doi = "doi.org/10.1007/s00158-018-2069-1"
+doi = "10.1007/s00158-018-2069-1"
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [image]
