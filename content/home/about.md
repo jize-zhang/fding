@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-13T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,26 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
+    "Uncertainty Quantification",
     "Computational Linguistics",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Civil Engineering"
+  institution = "University of Notre Dame, USA"
+  month = May
+  year = 2019
+
+[[education.courses]]
+  course = "MSc in Advanced Infrastructure Systems"
+  institution = "Carnegie Mellon University, USA"
+  month = December
+  year = 2013
+
+[[education.courses]]
+  course = "BEng in Electrical Engineering"
+  institution = "Xi'an Jiaotong University, China"
+  month = June
   year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
