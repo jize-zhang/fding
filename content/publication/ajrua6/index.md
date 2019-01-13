@@ -65,7 +65,8 @@ doi = "doi.org/10.1061/AJRUA6.00009692"
 [image]
 caption = "Fig. 1: Indirect inference model calibration."
 focal_point = "Top"
+preview_only = true
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
+# Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
