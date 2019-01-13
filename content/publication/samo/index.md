@@ -5,7 +5,7 @@ title = "Multi-objective optimization for design under uncertainty problems thro
 date = "2018-09-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Jize Zhang", "Alexandros Taflanidis""]
+authors = ["Jize Zhang", "Alexandros Taflanidis"]
 
 # Publication type.
 # Legend:
