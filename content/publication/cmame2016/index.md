@@ -64,7 +64,7 @@ doi = "10.1016/j.cma.2016.10.042"
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [image]
 focal_point = "Smart"
-
+preview_only = true
 +++
 
 Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
