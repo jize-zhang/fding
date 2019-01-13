@@ -13,7 +13,7 @@ title = "Academic"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -63,17 +63,17 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = """
-  Monday 10:00 to 13:00<br>
-  Wednesday 09:00 to 10:00<br>
-  Otherwise email to book an appointment
-  """
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  email = "jize (dot) zhang (dot) 204 [at] nd (dot) edu"
+  address = "155 Fitzpatrick Hall of Engineering, University of Notre Dame, Indiana, 46556, USA"
+  # office_hours = """
+  # Monday 10:00 to 13:00<br>
+  # Wednesday 09:00 to 10:00<br>
+  # Otherwise email to book an appointment
+  # """
+  # phone = "888 888 88 88"
+  # skype = "echo123"
+  # telegram = ""
+  # keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
   appointment_url = ""
