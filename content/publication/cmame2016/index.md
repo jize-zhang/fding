@@ -63,8 +63,7 @@ doi = "10.1016/j.cma.2016.10.042"
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [image]
-caption = "Fig. 1: Indirect inference model calibration."
-focal_point = "Top"
+focal_point = "Smart"
 
 +++
 
