@@ -19,19 +19,19 @@ weight = 5
 [[education.courses]]
   course = "PhD in Civil Engineering"
   institution = "University of Notre Dame, USA"
-  month = May
+  month = "May"
   year = 2019
 
 [[education.courses]]
   course = "MSc in Advanced Infrastructure Systems"
   institution = "Carnegie Mellon University, USA"
-  month = December
+  month = "December"
   year = 2013
 
 [[education.courses]]
   course = "BEng in Electrical Engineering"
   institution = "Xi'an Jiaotong University, China"
-  month = June
+  month = "June"
   year = 2012
  
 +++
