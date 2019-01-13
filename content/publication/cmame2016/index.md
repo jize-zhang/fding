@@ -62,9 +62,9 @@ highlight = true
 doi = "10.1016/j.cma.2016.10.042"
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+[image]
+caption = "Fig. 1: Indirect inference model calibration."
+focal_point = "Top"
 
 +++
 
