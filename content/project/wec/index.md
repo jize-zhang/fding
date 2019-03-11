@@ -7,7 +7,7 @@ title = "Optimizing wave energy converter array layouts"
 
 [image]
   caption = ""
-  focal_point = "Center"
+  focal_point = "Right"
 +++
 
 ## Description
