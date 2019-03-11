@@ -1,1 +1,16 @@
-aa
++++
+date = "2019-03-11T2:27:40-04:00"
+math = false
+summary = "Optimizing wave energy converter array layouts"
+tags = ["application"]
+title = "Optimizing wave energy converter array layouts"
+
+[image]
+  caption = ""
+  focal_point = "Center"
++++
+
+## Description
+In the transition of the US energy economy from traditional technologies to renewables, ocean wave energy technology has a significant role to play. Almost all of the wave energy technologies involve the employment of Wave Energy Converters (WECs) -- some dynamically excited vibrating structures which interact with periodic ocean swells. By interfacing this induced motion with generators, wave energy can be harvested, conditioned, and delivered to a power grid. For WEC technologies to be relevant on a utility scale, it will be necessary to distribute vast arrays of energy-harvesting buoys across a wide expanse of ocean, as scaling up individual WECs to the several megawatts is economically impractical. Unlike wind farms, which are typically arranged to minimize interference between the wind turbines, certain layout of WECs in an array can induce constructive hydrodynamic interactions between WECs, i.e., such interaction increases the power generation. Such effect gives rise to the layout optimization issue. However, the hydrodynamic analysis and performance estimation of different layout for WEC arrays have to be carried out using numerical models and thus becomes computationally expensive. Computational demand increases rapidly with the array size, making the determination of optimal layouts of WECs in arrays extremely challenging, even for arrays as small as 3-4 WECs. As such, the present state-of-understanding for layout optimization is still limited to small array sizes. Furthermore, to simplify the optimization problem, most existing approaches ignore the fact that sea states are random and uncertain phenomena, and assume anti-causal controllers for WEC, thus requiring some anticipatory technique(i.e., present decisions are made with future wave status) which could be either undesirable or impossible in many applications. As a consequence, they often result in sub-optimal performance, especially in the presence of uncertain sea states. 
+
+This project constitutes an effort to rectify these issues, and deliver an accurate and efficient approach for assessing and optimizing the power generation potential. The computational demand will be reduced by the incorporation of a statistical emulator (metamodel) that can efficiently predict the hydrodynamic interactions based on small number of evaluations of the initial, computationally expensive numerical model. Uncertainties both associated with such emulator prediction and with the wave climate will be characterized and incorporated into the formulation of optimization problem. Modern control theory will be further integrated by employing a causal controller (i.e., do not explicitly require future waves to be known), which makes power generation decisions based only on easy-to-measure feedback signals such as the generator velocities or their voltage. The result will be that for a given set of assumptions regarding the probabilistic uncertainty associated with the sea state, the resultant WEC formation to emerge from this approach will be truly optimal; i.e., no other formation, regardless of how it is controlled, will out-perform it. Once developed, the technique can be applied for both for site scoping as well as actual array design.
