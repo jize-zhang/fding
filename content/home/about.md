@@ -38,6 +38,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Jize Zhang is a Ph.D. candidate at the Department of Civil & Environmental Engineering & Earth Sciences, University of Notre Dame. His current research focuses on probabilistic data-driven modeling and inference for computationally expensive physical and engineering. He is in general interested in Bayesian inference, uncertainty quantification, goal-adaptive experimental design, stochastic optimization, and urban data science.
