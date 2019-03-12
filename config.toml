@@ -316,9 +316,9 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = ""
-  category = ""
+# [taxonomies]
+#  tag = ""
+#  category = ""
 #  publication_type = "publication_types"
 
 # Languages
