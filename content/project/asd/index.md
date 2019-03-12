@@ -1,7 +1,6 @@
 +++
 date = "2019-03-11T2:27:40-04:00"
 math = false
-summary = "Automated shape design of buildings"
 title = "Automated shape design of buildings"
 
 [image]
