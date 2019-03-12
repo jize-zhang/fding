@@ -1,7 +1,6 @@
 +++
-date = "2019-03-11T2:27:40-04:00"
+date = "2019-03-10T2:27:40-04:00"
 math = false
-summary = "Multi-fidelity surrogate modeling and sequential surrogate model updating"
 title = "Multi-fidelity surrogate modeling and sequential surrogate model updating"
 
 [image]
