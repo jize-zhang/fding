@@ -52,7 +52,7 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Jize Zhang"
+  name = "Fei Ding"
   role = "Ph.D. Candidate"
 
   # Organizations/Affiliations.
@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "fding [at] nd (dot) edu"
-  address = "155 Fitzpatrick Hall of Engineering, University of Notre Dame, Indiana, 46556, USA"
+  address = "Fitzpatrick Hall of Engineering, University of Notre Dame, Indiana, 46556, USA"
   # office_hours = """
   # Monday 10:00 to 13:00<br>
   # Wednesday 09:00 to 10:00<br>
@@ -270,7 +270,7 @@ enableGitInfo = false
   [[params.social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "files/Full_cv.pdf"
+   link = "files/CV_2019_CRC.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
