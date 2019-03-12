@@ -16,3 +16,6 @@ Multi-fidelity approaches that utilize hierarchical surrogate models relating lo
 
 Another challenge regarding the validation of the adequacy of the simulated data lies in the modeling of multi-fidelity surrogates. If the data is insufficient for surrogate model calibration, new CFD simulations should be conducted, which is referred to as sequential design.
 Sequential sampling can be applied both globally and locally. The goal of global sampling over the entire design space is to reduce the overall prediction error and thus to enhance the global accuracy of the surrogate model. The local exploitation of the surrogate model by confining the positions of the infill points at the regions of interest, e.g., local minimum or maximum regions, aims at driving a more accurate search towards optimization. Furthermore, it would be computationally efficient if sequential sampling has the capability of generating multiple infill points for each cycle of surrogate model updating in order to make full use of the computational resources. In view of the above challenges, a parallel sequential sampling scheme containing those two phases of model updating has been developed in our study.
+
+{{< figure library="1" src="Picture4.jpg">}}
+
