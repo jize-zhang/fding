@@ -60,7 +60,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Notre Dame", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "USACM_poster.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "fding [at] nd (dot) edu"
