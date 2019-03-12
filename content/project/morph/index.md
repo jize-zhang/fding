@@ -1,7 +1,6 @@
 +++
-date = "2019-03-11T2:27:40-04:00"
+date = "2019-03-09T2:27:40-04:00"
 math = false
-summary = "Autonomous morphing of structural form"
 title = "Autonomous morphing of structural form"
 
 [image]
