@@ -9,7 +9,7 @@ title = "CFD-enabled static form design of structures"
 +++
 
 {{< figure library="1" src="Project1_1.jpg">}}
-{{< figure library="1" src="Project1_2.jpg">}}
+{{< figure library="1" src="Project1_2.png">}}
 
 ## Description
 Before moving to design of dynamic façade of the building, my initial research focused on aerodynamic shape tailoring of structures using computational fluid dynamics (CFD) and machine learning techniques.
