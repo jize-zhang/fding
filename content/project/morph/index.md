@@ -1,7 +1,7 @@
 +++
 date = "2019-03-09T2:27:40-04:00"
 math = false
-title = "Autonomous morphing of structural form under windsm"
+title = "Autonomous morphing of structural form under winds"
 
 [image]
   caption = ""
